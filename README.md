@@ -18,7 +18,7 @@ nodemon
 Server started on port 5000
 
 
-## enpoints
+## endpoints
 
 Request Token: http://localhost:5000/api/requestToken
 
