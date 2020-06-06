@@ -9,8 +9,10 @@ in the project folder, run the command
 npm install
 ```
 
-then
+then type following command to start server
 
 ```javascript
 nodemon
 ```
+
+Server started on port 5000
